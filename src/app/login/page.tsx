@@ -54,7 +54,7 @@ export default function LoginPage() {
         className="w-full max-w-md bg-white/10 backdrop-blur-md rounded-3xl shadow-2xl p-8 border border-white/20"
       >
         <h1 className="text-3xl font-semibold text-center mb-8">
-          Welcome Back to <span className="text-blue-400">MultiCart</span>
+          Welcome Back to <span className="text-blue-400">Shopsyraa</span>
         </h1>
 
         <form onSubmit={handleLogin} className="flex flex-col gap-4">
