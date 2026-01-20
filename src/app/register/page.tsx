@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react'
-import { AnimatePresence, motion } from "motion/react"
+import { AnimatePresence, motion } from "framer-motion"
 import { TbPlayerTrackNext } from 'react-icons/tb';
 import { FaEye , FaEyeSlash} from "react-icons/fa";
 import { FcGoogle }  from 'react-icons/fc';
